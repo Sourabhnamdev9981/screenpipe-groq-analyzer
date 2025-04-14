@@ -97,9 +97,7 @@ pip install -r requirements.txt
 
 # Run Streamlit app
 streamlit run app.py
-
----
-
+```
 ## 🧬 Future Scope
 
 - 📈 Add voice-command integration  
@@ -122,3 +120,4 @@ streamlit run app.py
 
 This hackathon was a fun and intense learning experience!  
 We explored AI infrastructure, built end-to-end ML apps
+
