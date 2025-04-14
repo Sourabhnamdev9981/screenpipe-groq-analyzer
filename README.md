@@ -97,3 +97,28 @@ pip install -r requirements.txt
 
 # Run Streamlit app
 streamlit run app.py
+
+---
+
+## 🧬 Future Scope
+
+- 📈 Add voice-command integration  
+- 🛡️ Improve Groq prompt engineering for advanced suggestions  
+- 🌐 Enable multilingual support  
+
+---
+
+## 📎 Resources / Credits
+
+- Groq API Docs  
+- ScreenPipe SDK  
+- Streamlit  
+- Python OpenCV for frame handling  
+- Inspiration from dev tools like Raycast & Copilot  
+
+---
+
+## 🏁 Final Words
+
+This hackathon was a fun and intense learning experience!  
+We explored AI infrastructure, built end-to-end ML apps
